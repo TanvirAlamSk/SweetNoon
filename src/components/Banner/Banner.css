@@ -1,0 +1,5 @@
+.banner {
+    /* opacity: 0.5; */
+    background-image: url('../../assets/banner_1.png');
+    background-size: cover;
+}
